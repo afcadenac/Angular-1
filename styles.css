@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formBasic {
+    padding: 25px;
+    border-color: black;
+    border-radius: 5px;;
+    border:10px;
+    background-color: aqua;
+}
+
+input{
+    height: 100%;
+    display: block;
+    margin: 10px;
+}
